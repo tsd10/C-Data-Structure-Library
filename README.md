@@ -1,4 +1,4 @@
-# C-Data-Structure-Library
+# Cpp-Data-Structure-Library
 A generic library using templates of various data structures in C++ 
 
 This respository is for beginners who want a generic data structures library.
